@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculator_assig</string>
+    <string name="enter_first_number">enter_first_number</string>
+    <string name="multi">*</string>
+    <string name="mod">%</string>
+    <string name="equal">=</string>
+    <string name="decimal">.</string>
+    <string name="add">+</string>
+    <string name="divide">/</string>
+    <string name="sub">-</string>
+    <string name="enter_second_number">enter_second_number</string>
+    <string name="result">result</string>
+</resources>
